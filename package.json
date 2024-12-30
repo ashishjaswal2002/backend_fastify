@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "fastify": "^5.2.0"
+  },
+  "name": "fastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev":"nodemon main.ts ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
